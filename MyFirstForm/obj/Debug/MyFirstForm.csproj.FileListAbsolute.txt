@@ -1,0 +1,12 @@
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.exe.config
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.exe
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.pdb
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.AssemblyReference.cache
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.SuggestedBindingRedirects.cache
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.Properties.Resources.resources
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.GenerateResource.cache
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.CoreCompileInputs.cache
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.exe
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.pdb
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.firstForm.resources
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.CalculatorValue.resources

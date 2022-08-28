@@ -34,6 +34,7 @@
             this.txt1 = new System.Windows.Forms.Label();
             this.txtResult = new System.Windows.Forms.TextBox();
             this.btnCal = new System.Windows.Forms.Button();
+            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.SuspendLayout();
             // 
             // num
@@ -52,6 +53,7 @@
             this.txtValue1.Size = new System.Drawing.Size(587, 43);
             this.txtValue1.TabIndex = 1;
             this.txtValue1.TextChanged += new System.EventHandler(this.txtValue1_TextChanged);
+            this.txtValue1.MouseEnter += new System.EventHandler(this.txtValue1_MouseEnter);
             // 
             // txtValue2
             // 
@@ -79,8 +81,9 @@
             this.txtResult.Name = "txtResult";
             this.txtResult.ReadOnly = true;
             this.txtResult.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtResult.Size = new System.Drawing.Size(993, 222);
+            this.txtResult.Size = new System.Drawing.Size(991, 222);
             this.txtResult.TabIndex = 5;
+            this.txtResult.TextChanged += new System.EventHandler(this.txtResult_TextChanged);
             // 
             // btnCal
             // 
@@ -94,11 +97,20 @@
             this.btnCal.UseVisualStyleBackColor = false;
             this.btnCal.Click += new System.EventHandler(this.btnCal_Click);
             // 
+            // checkedListBox1
+            // 
+            this.checkedListBox1.FormattingEnabled = true;
+            this.checkedListBox1.Location = new System.Drawing.Point(0, 0);
+            this.checkedListBox1.Name = "checkedListBox1";
+            this.checkedListBox1.Size = new System.Drawing.Size(120, 84);
+            this.checkedListBox1.TabIndex = 6;
+            // 
             // CalculatorValue
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 36F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1015, 493);
+            this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.btnCal);
             this.Controls.Add(this.txtResult);
             this.Controls.Add(this.txtValue2);
@@ -124,5 +136,6 @@
         private System.Windows.Forms.Label txt1;
         private System.Windows.Forms.TextBox txtResult;
         private System.Windows.Forms.Button btnCal;
+        private System.Windows.Forms.CheckedListBox checkedListBox1;
     }
 }

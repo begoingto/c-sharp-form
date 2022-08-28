@@ -52,6 +52,12 @@
     <Compile Include="CalculatorValue.Designer.cs">
       <DependentUpon>CalculatorValue.cs</DependentUpon>
     </Compile>
+    <Compile Include="EmployeePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeePayment.Designer.cs">
+      <DependentUpon>EmployeePayment.cs</DependentUpon>
+    </Compile>
     <Compile Include="firstForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CalculatorValue.resx">
       <DependentUpon>CalculatorValue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeePayment.resx">
+      <DependentUpon>EmployeePayment.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="firstForm.resx">
       <DependentUpon>firstForm.cs</DependentUpon>

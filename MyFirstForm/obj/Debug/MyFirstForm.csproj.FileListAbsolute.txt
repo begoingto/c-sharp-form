@@ -11,3 +11,5 @@ D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.pdb
 D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.firstForm.resources
 D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.CalculatorValue.resources
 D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.EmployeePayment.resources
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.Salarytext.resources
+D:\_study\yearII\SemesterI\C#\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.ComboBoxDayMonthYear.resources

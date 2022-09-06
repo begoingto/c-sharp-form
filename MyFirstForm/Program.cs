@@ -16,7 +16,7 @@ namespace MyFirstForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ComboBoxDayMonthYear());
+            Application.Run(new FormCheckInOut());
         }
     }
 }
